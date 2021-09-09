@@ -89,7 +89,7 @@ Si se desea correr únicamente un test de los provistos, es posible usar el
 nombre del archivo del test únicamente, por ejemplo:
 
 ```bash
-rake test TEST=tests/06_tiempo_en_palabras_test.rb
+rake test TEST=tests/01/06_tiempo_en_palabras_test.rb
 ```
 
 ### Analizando la cobertura de los tests
