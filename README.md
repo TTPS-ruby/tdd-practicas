@@ -98,6 +98,6 @@ Cada vez que se corren los tests, se genera una carpeta en el repositorio, que
 no es versionable llamada `coverage/`. En esa carpeta, se generan varios
 archivos:
 
-* **`index.html`**: pueden visualizarlo usando `xdg-open covergage/index.html`
+* **`index.html`**: pueden visualizarlo usando `xdg-open coverage/index.html`
 * **`.last_run.json`**: los resultados resumidos de la última corrida en formato
   json.
