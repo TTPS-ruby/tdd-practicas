@@ -16,5 +16,5 @@ Metrics/MethodLength:
   Enabled: false
 Lint/EmptyFile:
   Enabled: false
-Lint/AsciiComments:
+Style/AsciiComments:
   Enabled: false
